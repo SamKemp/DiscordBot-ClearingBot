@@ -13,12 +13,6 @@ client.buttons = new Collection();
 // Scan for and register commands
 ScanCommands('commands', client.commands, true, false);
 
-// Scan for and register menus
-ScanFor('menus', client.menues);
-
-// Scan for and register buttons
-ScanFor('buttons', client.buttons);
-
 // Scan for and register events
 ScanEvents('events', client);
 
