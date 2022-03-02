@@ -1,1 +1,1 @@
-# DiscordBot-Template
+# DiscordBot-ClearingBot
